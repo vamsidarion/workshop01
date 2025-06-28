@@ -1,10 +1,4 @@
-Here is the **complete Markdown code** for your **"Getting Started with Ollama & Running Llama Models"** workshop — fully formatted, including all sections and the detailed **Windows WSL2 installation guide**.
 
-You can copy and paste this into any `.md` file or Markdown editor (like VS Code, Obsidian, GitHub, etc.).
-
----
-
-```markdown
 # 🎓 Workshop: Getting Started with Ollama & Running Llama Models
 
 ## Presenters
